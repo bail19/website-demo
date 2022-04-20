@@ -1,0 +1,14 @@
+---
+title: "Example Website"
+---
+
+This is markdown
+
+  * I can include bullets
+  * here's another bullet
+  
+## I can include headers
+
+<img src = "img/img.jpg>
+
+I can include <i> html</i>
